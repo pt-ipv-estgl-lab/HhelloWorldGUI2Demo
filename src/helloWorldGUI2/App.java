@@ -1,3 +1,6 @@
+/*
+ * Implementing ActionListner interface.
+ */
 package helloWorldGUI2;
 
 import java.awt.BorderLayout;
